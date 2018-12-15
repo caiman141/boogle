@@ -53,6 +53,15 @@ right: 150px;
     border-color: #59B3E1;
   }
 
+  ::-webkit-input-placeholder {
+   font-size: 14px;
+   color: #d0cdfa;
+   text-transform: uppercase;
+   text-transform: uppercase;
+   text-align: center;
+   font-weight: bold;
+}
+
   .Sbutton {
     background-color: #ECEAFE;
     border-radius: 8px;
