@@ -1,0 +1,65 @@
+.container {
+  display: inline-block
+    font-size: large;
+position: absolute;
+top: auto;
+right: 150px;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.sign  {
+  background-color:#3991BD;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.slika {
+  display: block;
+  position: absolute;
+  top:170px;
+  left: 570px;
+}
+
+.iskanje {
+  position: relative;
+  display: inline-block;
+  top: 400px;
+  left: 37%;
+ }
+
+.search {
+    display: block;
+    position: relative;
+    top: 350px;
+    left: 28%;
+    width: 620px;
+    height: 30px;
+    border: absolute 10px;
+    border-color: #59B3E1;
+  }
+
+  .Sbutton {
+    background-color: #ECEAFE;
+    border-radius: 8px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
